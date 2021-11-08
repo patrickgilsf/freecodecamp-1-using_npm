@@ -2,6 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Patrick Gilligan",
 	"description": "A project for free-code-camp",
+	"keywords": [
+		"freecodecamp",
+		"thisisatest"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
